@@ -24,6 +24,8 @@ To explore the interactive features of TraktenRP and learn more about the game s
 
 - **Domain Management**: I handled domain management, ensuring smooth connection to the website.
 
+- **SSL Certificates**: I ensured that the website uses SSL Certificates so the connection is secure.
+
 - **Hosting**: The site is hosted on Netlify, ensuring reliable and efficient performance.
 
 - **Encryption**: The site is fully encrypted, even the frontend is encrypted to avoid tampering.
