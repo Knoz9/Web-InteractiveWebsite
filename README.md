@@ -8,7 +8,7 @@ To explore the interactive features of TraktenRP and learn more about the game s
 
 ## Features
 
-- **Fully Functional Contact Form**: The website includes a contact form to facilitate communication.
+- **Fully Functional Contact Form**: The website includes a contact form. Messages are sent to the servers email.
   
 - **Donation Shop**: A dedicated section for in-game item purchases. Links lead to Discord tickets for each category.
 
