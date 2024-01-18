@@ -26,7 +26,7 @@ To explore the interactive features of TraktenRP and learn more about the game s
 
 - **Hosting**: The site is hosted on Netlify, ensuring reliable and efficient performance.
 
-- **Encrypting**: The site is fully encrypted, even the frontend is encrypted to avoid tampering.
+- **Encryption**: The site is fully encrypted, even the frontend is encrypted to avoid tampering.
 
 ## Viewing Contributions
 
