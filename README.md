@@ -2,6 +2,10 @@
 
 TraktenRP is an interactive website created for a game server. While the source code for the project is not available here to respect the server's privacy, I've included credits at the bottom of the website as proof of my work. My GitHub handle is Knoz9.
 
+## Visit TraktenRP
+
+To explore the interactive features of TraktenRP and learn more about the game server, visit the website: [TraktenRP Website](https://www.traktenrp.se)
+
 ## Features
 
 - **Fully Functional Contact Form**: The website includes a contact form to facilitate communication.
@@ -25,9 +29,5 @@ TraktenRP is an interactive website created for a game server. While the source 
 ## Viewing Contributions
 
 To view the detailed contributions and responsibilities for this project, simply click on the bottom footer of the TraktenRP website. The credits section will provide a comprehensive overview of the work done.
-
-## Visit TraktenRP
-
-To explore the interactive features of TraktenRP and learn more about the game server, visit the website: [TraktenRP Website](https://www.traktenrp.se)
 
 Feel free to reach out if you have any questions or would like more information about this project.
