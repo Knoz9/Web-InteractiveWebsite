@@ -8,7 +8,7 @@ TraktenRP is an interactive website created for a game server. While the source 
   
 - **Donation Shop**: A dedicated section for in-game item purchases. Links lead to Discord tickets for each category.
 
-- **Live Server Status**: A status page that displays the server's live status, keeping players informed.
+- **Live Server Status**: A status page that displays the server's live status, player count, and even connected players.
 
 - **About Us**: Learn more about the server's main staff and the team behind TraktenRP.
 
