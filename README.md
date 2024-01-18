@@ -6,7 +6,7 @@ TraktenRP is an interactive website created for a game server. While the source 
 
 To explore the interactive features of TraktenRP and learn more about the game server, visit the website: [TraktenRP Website](https://www.traktenrp.se)
 
-## Features
+## Features i implemented
 
 - **Fully Functional Contact Form**: The website includes a contact form. Messages are sent to the servers email.
   
