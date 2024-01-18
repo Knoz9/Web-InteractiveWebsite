@@ -1,7 +1,5 @@
 # TraktenRP - Interactive Website
 
-![TraktenRP Logo](https://www.traktenrp.se/assets/logoonly.png)
-
 TraktenRP is an interactive website created for a game server. While the source code for the project is not available here to respect the server's privacy, I've included credits at the bottom of the website as proof of my work. My GitHub handle is Knoz9.
 
 ## Features
