@@ -22,6 +22,10 @@ TraktenRP is an interactive website created for a game server. While the source 
 
 - **Hosting**: The site is hosted on Netlify, ensuring reliable and efficient performance.
 
+## Viewing Contributions
+
+To view the detailed contributions and responsibilities for this project, simply click on the bottom footer of the TraktenRP website. The credits section will provide a comprehensive overview of the work done.
+
 ## Visit TraktenRP
 
 To explore the interactive features of TraktenRP and learn more about the game server, visit the website: [TraktenRP Website](https://www.traktenrp.se)
